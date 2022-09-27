@@ -4,4 +4,4 @@ This project demonstrates how CSS Grid (with flexbox fallback) can be used to re
 ![LastPass Vault Layout Demo](demo-image.JPG "LastPass Vault Layout Demo")
 
 ## Live Demo
-A live demo is available on [CodePen](https://codepen.io/GeorgePark/full/PQweLr/).
+A live demo is available on [CodePen](https://codepen.io/GeorgePark/full/PQweLr/) and [Netlify](https://lastpass-vault-layout.netlify.app/).
